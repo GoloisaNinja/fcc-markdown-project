@@ -6,6 +6,6 @@ This project is not at all responsive and is not designed to be extremely pretty
 
 I ended up making a stackedit clone which is a lot prettier than this. It is also responsive.
 
-![repo is here...]('https://github.com/GoloisaNinja/openmarkio')
+[OpenMarkIo repo is here...](https://github.com/GoloisaNinja/openmarkio)
 
-![live project is here...]('https://openmarkio.netlify.app')
+[OpenMarkIo live project is here...](https://openmarkio.netlify.app)
